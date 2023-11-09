@@ -219,5 +219,5 @@ int sortarr()
     {
         printf("\t%d\t",a[i]);
     }
-    return 0
+    return 0;
     }
