@@ -141,8 +141,6 @@ printf("\n Insertion in circular Queue\n");
 
 enqueue(14);
 
-system("pause");
-
 return 0;
 
 }
